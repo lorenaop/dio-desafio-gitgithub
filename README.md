@@ -1,7 +1,9 @@
 ## dio-desafio-gitgithub
  # Desafio Projeto Git/GithHub
 
-O Git nada mais nada menos é um sistema de controle de versões,com a velocidade da tecnologia o Git vem para ajudar nós programadores a controlar nossas versões de codigos que sofrem mudanças ao longo do tempo!Além de trazer muito mais benefícios como:
+O Git nada mais nada menos é um sistema de controle de versões.Com tanta velocidade da tecnologia,o Git vem para ajudar nós programadores a controlarmos nossas versões de códigos, que sofrem mudanças ao longo do tempo! 
+
+Além de trazer muito mais benefícios como:
 
  * Acompanhar a evolução do seu projeto;
  * Resgatar versões anteriores;
