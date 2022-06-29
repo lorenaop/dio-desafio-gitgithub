@@ -1,0 +1,17 @@
+Comandos Basicos do Terminal:
+
+
+ * git init = Iniciar um repositório local;
+ * git status = Exibe o status atual do repositório;
+ *git add = Adiciona os arquivos para serem commitados;
+ *git commit-m"" = Salva as alterações no repositório;
+ *cd = Muda de diretorio;
+ *dir = Lista os repositórios;
+ *cls = Limpa o terminal;
+ *echo > README.md = Cria um index;
+ *git push origin master = Empurra o nosso arquico;
+ *git pull origin master = Puxa o nosso arquico;
+ *git clone = Clona o repositório desejado;
+ *git config --global user.name"nome" ou user.email"email"
+É a função usada para definir os valores de configuração do Git.
+Neste cado,estaremos definido o nome e o e-mail do usuário.
